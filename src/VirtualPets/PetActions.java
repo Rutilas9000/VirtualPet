@@ -1,2 +1,7 @@
-package VirtualPets;public interface PetActions {
+package VirtualPets;
+
+public interface PetActions {
+    void feed();
+    void drink();
+    void play();
 }
